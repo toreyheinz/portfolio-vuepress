@@ -35,3 +35,6 @@ fields:
   type: datetime
   config:
     required: true
+- type: image_gallery
+  name: photos
+  label: Photos
