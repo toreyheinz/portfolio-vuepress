@@ -6,13 +6,12 @@ date: ''
 ---
 ::: slot header
 
-\# Here might be a page title
+# Here might be a page title
 
 :::
 
-\- A Paragraph
-
-\- Another Paragraph
+* A Paragraph
+* Another Paragraph
 
 ::: slot footer
 
