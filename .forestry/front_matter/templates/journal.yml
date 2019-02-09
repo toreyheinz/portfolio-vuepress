@@ -21,4 +21,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/journal/slot.md
 - portfolio/journal/shopflow.md
