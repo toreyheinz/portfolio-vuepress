@@ -6,6 +6,11 @@ year: 2017
 categories:
 - print
 description: subtitle
+photos:
+- "/upload/!cid_48_3075091956@web46013_mail_sp1_yahoo.jpg"
+- "/upload/!cid_49_3229695474@web46014_mail_sp1_yahoo.jpg"
+- "/upload/!cid_53_3075091956@web46013_mail_sp1_yahoo.jpg"
+- "/upload/!cid_54_3075091956@web46013_mail_sp1_yahoo.jpg"
 
 ---
 # Project three
