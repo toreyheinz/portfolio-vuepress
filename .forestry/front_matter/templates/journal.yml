@@ -1,7 +1,6 @@
 ---
 label: journal
 hide_body: true
-is_partial: false
 fields:
 - name: title
   default: ''
@@ -28,5 +27,5 @@ fields:
     schema:
       format: markdown
 pages:
-- portfolio/journal/slot.md
 - portfolio/journal/shopflow.md
+- portfolio/journal/slot.md
